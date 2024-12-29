@@ -117,12 +117,13 @@ const StyledImg = styled.img`
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 
   @media only screen and (max-width: 768px) {
-    width: 100%;
-    max-width: 450px;
-    border-radius: 10px;
+     display: none; /* Ocultar la imagen en pantallas pequeñas */
+
   }
 `;
-
+/*     width: 100%;
+    max-width: 450px;
+    border-radius: 10px; */
 const ImageWrapper = styled.div`
   position: relative;
   background: linear-gradient(135deg, ${blue["80"]}, ${yellow});

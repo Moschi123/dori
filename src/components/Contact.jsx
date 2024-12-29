@@ -187,14 +187,12 @@ const Contact = () => {
         </Left>
         <InfoContainer>
           <InfoTitle>Información</InfoTitle>
-          <InfoText>Número: +123 456 7890</InfoText>
-          <InfoText>Email: dorina@example.com</InfoText>
+          <InfoText>Número: +5491127392499</InfoText>
+          <InfoText>Email: dorinamoschini35@gmail.com  </InfoText>
           <InfoTitle>Horarios disponibles</InfoTitle>
           <HorariosList>
-          <InfoText>Lunes: 9:00 AM - 12:00 PM</InfoText>
-          <InfoText>Jueves y viernes: 2:00 PM - 5:00 PM</InfoText>
-          <InfoText>Sábados: 10:00 AM - 1:00 PM</InfoText>
-           
+          <InfoText>TODOS LOS DIAS</InfoText>
+          <InfoText>RESERVA TU TURNO</InfoText>
           </HorariosList>
         </InfoContainer>
       </Container>
