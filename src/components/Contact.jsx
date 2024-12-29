@@ -41,6 +41,7 @@ const Left = styled.div`
 `;
 
 const Title = styled.h1`
+  margin-top: 20px; /* Espacio superior */
   padding: 5px;
   padding-left: 110px;
   font-weight: 600;
@@ -48,11 +49,13 @@ const Title = styled.h1`
   color: rgba(0, 0, 255, 0.5);
 
   @media only screen and (max-width: 768px) {
-    padding-left: 0; /* Elimina el padding en pantallas pequeñas */
-    font-size: 24px;  /* Reduce el tamaño del texto en pantallas pequeñas */
-    text-align: center; /* Centra el texto en pantallas pequeñas */
+    padding-left: 0; 
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px; /* Ajusta el margen para pantallas pequeñas */
   }
 `;
+
 
 const Form = styled.form`
   display: flex;
