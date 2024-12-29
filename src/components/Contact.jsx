@@ -36,6 +36,7 @@ const Left = styled.div`
   gap: 20px;
 
   @media only screen and (max-width: 768px) {
+      margin-top: 15px; /* Ajusta el margen para pantallas pequeñas */
     align-items: center;
   }
 `;
