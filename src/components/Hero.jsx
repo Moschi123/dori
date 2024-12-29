@@ -117,8 +117,8 @@ const StyledImg = styled.img`
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 
   @media only screen and (max-width: 768px) {
-     display: none; /* Ocultar la imagen en pantallas pequeñas */
-
+    width: 80%;
+    max-width: 250px;
   }
 `;
 /*     width: 100%;
