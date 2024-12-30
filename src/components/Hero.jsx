@@ -157,8 +157,7 @@ const Hero = () => {
           <Title>Dorina Moschini</Title>
           <Subtitle>Directora de Casa de Estudio</Subtitle>
           <Desc>
-          Disfruta de  clases de apoyo en diversas materias para todos los niveles educativos!. Incluyendo  acompañamiento primario y hasta universitario en asignaturas especificas .Mis clases, tanto presenciales como online, están diseñadas para adaptarse a las necesidades de cada estudiante.
-          </Desc>
+          Tu nivel,tu ritmo. Clases personalizadas para cada estudiante segùn sus necesidades en todas las etapas educativas. Màs de un decada de experiencia acompañando a nuestros alumnos.  </Desc>
      
         </Left>
         <Right> 
